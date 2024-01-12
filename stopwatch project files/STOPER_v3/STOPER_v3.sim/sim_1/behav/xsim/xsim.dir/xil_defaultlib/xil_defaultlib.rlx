@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.srcs/sim_1/new/TB_for_all.v,1598217500,verilog,,,,TB_forall,,,,,,,,
+C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.srcs/sources_1/new/STOPER_MAIN.v,1598217589,verilog,,C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.srcs/sources_1/new/STOPER_modules.v,,connections_testbench,,,,,,,,
+C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.srcs/sources_1/new/STOPER_modules.v,1598217453,verilog,,C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.srcs/sim_1/new/TB_for_all.v,,counter;demux;preskaler;sseg,,,,,,,,

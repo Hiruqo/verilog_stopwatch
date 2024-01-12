@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Aug 23 23:21:20 2020
+# Process ID: 16692
+# Current directory: C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim/xsim.dir/TB_forall_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Me/Desktop/projekt/STOPER_v3/STOPER_v3.sim/sim_1/behav/xsim/xsim.dir/TB_forall_behav/webtalk/xsim_webtalk.tcl -notrace
